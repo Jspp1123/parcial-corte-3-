@@ -1,3 +1,4 @@
+#Javier Santiago Paez Penagos, Parcial tercer corte, JSPP
 def inicializar_grupo(equipos):
     """Crea la estructura inicial para los equipos del grupo."""
     tabla = {}
